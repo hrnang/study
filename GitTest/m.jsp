@@ -8,6 +8,6 @@
 </head>
 <body>
 	<h1> test.jsp 입니다. </h1>
-	<h2>local-1</h2>
+	<h2>local-2</h2>
 </body>
 </html>
